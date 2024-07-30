@@ -315,7 +315,7 @@ export const projects = [
     description:
       "Developed a Java application for electricity bill management with a multi-role login system (Admin,Customer). Implemented database connectivity using MySQL for storing and managing user data, billing information,and payment statuses using CRUD operations. Leveraged Java Swing for a user-friendly UI for Admin and Customer roles.",
     image:
-      "https://private-user-images.githubusercontent.com/91771087/353459270-1cc64549-0ee1-43f9-b7b0-54669808cb13.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIzNDM0MTIsIm5iZiI6MTcyMjM0MzExMiwicGF0aCI6Ii85MTc3MTA4Ny8zNTM0NTkyNzAtMWNjNjQ1NDktMGVlMS00M2Y5LWI3YjAtNTQ2Njk4MDhjYjEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzMwVDEyMzgzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhZmRjNTFlYjk2ZDhiYTQ2ODUwZThjMWJlODhhZmJlNTMxZmFlZTBmNmFmNDQ5OTI0OGU3YWJmNjY2NDRhZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nWQ-RmSwiN_8sTBqHNOlwTzMn-93L3YxHUkRZqQ3pRo",
+      "https://github.com/user-attachments/assets/1cc64549-0ee1-43f9-b7b0-54669808cb13",
     tags: [
       "Java",
       "MySQL",
